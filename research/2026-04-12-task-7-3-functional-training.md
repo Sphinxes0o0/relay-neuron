@@ -76,6 +76,14 @@
 - 1天恢复/活动度
 ```
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| 足球运动员功能性+BFR研究 (2024) | [J Sports Sci Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| 功能性训练定义与分类 | [Int J Sports Phys Ther](https://pubmed.ncbi.nlm.nih.gov/) |
+| 功能性vs传统阻力训练比较 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

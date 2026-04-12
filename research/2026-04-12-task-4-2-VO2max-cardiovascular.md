@@ -58,6 +58,14 @@
 - 保持 80-95% 最大心率
 - 渐进增加训练强度
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| ACSM Position Stand - 有氧运动与心血管健康 | [Med Sci Sports Exerc](https://journals.lww.com/acsm-msse/) |
+| VO2max改善Meta分析 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| BFR+有氧训练研究 | [Scientific Reports](https://www.nature.com/srep/) |
+
 ---
 
 **存档时间**: 2026-04-12

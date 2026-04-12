@@ -68,6 +68,14 @@
 - 睡眠剥夺降低 MPS
 - 充足睡眠对恢复至关重要
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| 恢复期MPS时间进程 | [J Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
+| 运动后营养与MPS | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| 蛋白质-碳水联合研究 | [Am J Clin Nutr](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

@@ -75,6 +75,14 @@
 3. **睡眠管理**: 7-9 小时/夜
 4. **年龄管理**: 老年人需更高蛋白质剂量
 
+## 七、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| McMaster University - 卫星细胞与肥大适应 | [McMaster Kinesiology](https://www.mcmaster.ca/) |
+| Egner et al. - 卫星细胞耗竭研究 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+| Satellite cells and muscle hypertrophy review | [J Appl Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

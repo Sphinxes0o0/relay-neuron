@@ -85,6 +85,14 @@
 
 离心和向心训练都是肌肥大的有效手段。离心训练可能具有独特的肥大优势，尤其是结合拉伸时。完整的训练计划应同时包含两种收缩类型。
 
+## 七、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| 离心训练与肥大研究 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/) |
+| Douglas et al. - 拉伸配合训练研究 | [J Appl Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
+| 收缩类型与区域肥大 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

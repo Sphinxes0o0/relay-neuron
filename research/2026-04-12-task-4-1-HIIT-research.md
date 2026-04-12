@@ -70,6 +70,14 @@
 - 关节问题需注意
 - 需专业指导
 
+## 七、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| Nature - HIIT vs MICT前列腺癌研究 (2024) | [Nature](https://www.nature.com/) |
+| 高强度间歇训练Meta分析 | [Br J Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| Tabata et al. - HIIT original protocol | [Int J Fitness](https://www.fit-journal.com/) |
+
 ---
 
 **存档时间**: 2026-04-12

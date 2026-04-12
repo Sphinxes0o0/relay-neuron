@@ -69,6 +69,14 @@
 - 多样化的身体活动
 - 力量和骨健康活动 (跳跃、跑步)
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| Pediatric Research - 学龄前儿童体能与执行功能 (2025) | [Pediatr Res](https://www.nature.com/articles/pr/) |
+| PREFIT 体能评估系统 | [J Sports Sci](https://pubmed.ncbi.nlm.nih.gov/) |
+| 儿童身体活动与认知发展 | [Br J Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

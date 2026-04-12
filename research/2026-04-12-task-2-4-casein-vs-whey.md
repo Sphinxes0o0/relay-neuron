@@ -71,6 +71,14 @@
 
 乳清蛋白和酪蛋白各有优势，互为补充。训练后优选乳清蛋白，睡前优选酪蛋白。两者均可有效支持肌肉生长和维持。
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| McMaster University - 牛奶vs豆奶研究 | [McMaster Kinesiology](https://www.mcmaster.ca/) |
+| Morton et al. - 乳清vs酪蛋白MPS比较 | [Br J Nutr](https://pubmed.ncbi.nlm.nih.gov/) |
+| Churchward-Venne et al. - 蛋白质类型与MPS | [J Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

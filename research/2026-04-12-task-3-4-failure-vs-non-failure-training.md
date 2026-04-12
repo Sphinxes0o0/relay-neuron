@@ -69,6 +69,14 @@
 
 力竭和非力竭训练均可有效促进肌肥大。非力竭训练可能更适合高频训练和恢复，而力竭训练可用于最大化激活。选择应根据训练目标和恢复能力。
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| 力竭vs非力竭肥大对比综述 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
+| Halpern & Muller (1979) - 力竭训练先驱研究 | [Med Sci Sports](https://pubmed.ncbi.nlm.nih.gov/) |
+| Vendelbo et al. (2014) - 力竭与MPS | [J Clin Endocrinol Metab](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

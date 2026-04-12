@@ -74,6 +74,14 @@
 - 缩短休息时间
 - 改变动作角度
 
+## 七、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| Sødal et al. - Drops Sets Meta分析 (2023) | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
+| Schoenfeld - 训练量与肥大剂量效应 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/) |
+| 碎片化训练研究 | [J Int Soc Sports Nutr](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

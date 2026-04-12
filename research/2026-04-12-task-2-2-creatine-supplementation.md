@@ -87,6 +87,14 @@
 - **肾功能**: 健康人群无影响
 - **副作用**: 轻微体重增加 (水分)
 
+## 七、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| University of Idaho - 肌酸+阻力训练+睡眠 (2024) | [Nutrients](https://www.mdpi.com/journal/nutrients) |
+| Kreider et al. - 肌酸补充剂立场声明 | [J Int Soc Sports Nutr](https://pubmed.ncbi.nlm.nih.gov/) |
+|Branch (2013) - 肌酸与肌肉生长Meta分析 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

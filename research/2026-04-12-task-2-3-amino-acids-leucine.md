@@ -78,6 +78,14 @@
 - 考虑亮氨酸补充剂 (2.5-3g/次)
 - 配合碳水化合物增强效果
 
+## 七、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| Atherton et al. - 亮氨酸激活mTOR通路 | [Physiol Rev](https://pubmed.ncbi.nlm.nih.gov/) |
+| Biol Research - 乳清蛋白+ACr对MPS影响 (2023) | [Biol Research](https://www.sciencedirect.com/journal/biological-research) |
+| 亮氨酸阈值研究 | [Curr Opin Clin Nutr Metab Care](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

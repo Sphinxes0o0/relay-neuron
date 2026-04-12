@@ -65,6 +65,14 @@
 
 并发训练是全面的训练方法，可同时改善心肺功能和肌肉力量。通过合理安排顺序和强度，可最小化协调效应的负面影响。
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| Scientific Reports - 并发训练对中年人影响 (2024) | [Scientific Reports](https://www.nature.com/srep/) |
+| 乳腺癌幸存者并发训练研究 (2024) | [Support Care Cancer](https://pubmed.ncbi.nlm.nih.gov/) |
+| 高血压并发训练研究 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

@@ -75,6 +75,14 @@
 - 避免极端温度
 - 注意心绞痛症状
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| ACSM Position Stand - 身体活动与心血管健康 (2024) | [Med Sci Sports Exerc](https://journals.lww.com/acsm-msse/) |
+| 高血压运动干预Meta分析 | [Br J Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| 动脉僵硬度和运动研究 | [Hypertension](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

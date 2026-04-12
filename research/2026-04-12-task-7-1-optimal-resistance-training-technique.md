@@ -62,6 +62,14 @@
 - 过度依赖护具
 - 忽视离心阶段
 
+## 五、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| IUSCA Position Stand - 肌肥大最佳阻力训练 (2021) | [Int J Sports Sci](https://www.intjss.com/) |
+| JFMK - 优化阻力训练技术 (2023) | [J Funct Mov Health](https://pubmed.ncbi.nlm.nih.gov/) |
+| MDPI - 健美运动员训练方案综述 (2020) | [MDPI Sports](https://www.mdpi.com/journal/sports) |
+
 ---
 
 **存档时间**: 2026-04-12

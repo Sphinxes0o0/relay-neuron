@@ -74,6 +74,14 @@
 - 黑暗安静的睡眠环境
 - 限制咖啡因/酒精
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| npj Biological Timing and Sleep - 运动与睡眠 (Nature, 2024) | [npj Sleep](https://www.nature.com/npjsleep/) |
+| 睡眠时长与健康结局研究 | [PLoS Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| Krystal et al. - 睡眠与代谢健康 | [Lancet](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

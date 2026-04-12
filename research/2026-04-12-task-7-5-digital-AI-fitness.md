@@ -76,6 +76,14 @@
 
 数字化和AI正在改变健身方式，使训练更加个性化和数据驱动。SCSEPF 2025 会议强调了这一趋势，数字化能力将成为未来健身专业人士的必备技能。
 
+## 七、数据来源
+
+| 资源 | 来源 |
+|-----|------|
+| SCSEPF 2025 会议官网 | [SCSEPF](https://www.scsepf.org/) |
+| AI in Sports Science | [Front Sports Act Living](https://www.frontiersin.org/journals/sports-and-active-living) |
+| 可穿戴设备与运动表现 | [Sports Med Open](https://sportsmedicine-open.springeropen.com/) |
+
 ---
 
 **存档时间**: 2026-04-12

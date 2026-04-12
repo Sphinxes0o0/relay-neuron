@@ -81,6 +81,14 @@
 
 恢复是多因素过程。营养、睡眠和主动恢复是最有效的策略。过度依赖单一手段不如综合方法有效。
 
+## 八、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| 恢复策略综述 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| 冷疗与恢复 | [Cochrane Database Syst Rev](https://pubmed.ncbi.nlm.nih.gov/) |
+| 按摩与DOMS | [J Athl Train](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

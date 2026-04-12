@@ -78,6 +78,14 @@ BFR + 低强度运动 →:
 
 BFR 是一种有效的低负荷训练方法，可在较低强度下实现类似高强度训练的肌肉适应。2024 年研究表明对运动员的力量、爆发力和耐力均有显著改善。
 
+## 七、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| Scientific Reports - BFR Meta分析 (2024) | [Scientific Reports](https://www.nature.com/srep/) |
+| KAATSU - 血流限制训练历史与机制 | [J Sports Sci Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| Scott et al. - BFR对力量的影响 | [Int J Sports Physiol Perform](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

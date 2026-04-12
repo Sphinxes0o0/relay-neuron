@@ -58,6 +58,14 @@
 
 肌酸补充可能改善阻力训练日的睡眠质量，尤其是在训练后服用。机制可能涉及脑能量代谢改善和压力减轻。
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| University of Idaho - 肌酸+阻力训练+睡眠 (2024) | [Nutrients](https://www.mdpi.com/journal/nutrients) |
+| 肌酸与认知功能研究 | [Neurosci Biobehav Rev](https://pubmed.ncbi.nlm.nih.gov/) |
+| 肌酸与脑能量代谢 | [Brain Res Rev](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

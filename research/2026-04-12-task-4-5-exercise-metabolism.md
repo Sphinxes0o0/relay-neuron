@@ -72,6 +72,14 @@
 
 运动代谢是复杂的系统，受强度、持续时间、训练状态和营养影响。理解这些机制有助于优化运动表现和健康。
 
+## 七、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| Nature Metabolism - 进食调节糖原代谢 (2026) | [Nature Metabolism](https://www.nature.com/natmetab/) |
+| 线粒体蛋白合成研究 (2024) | [J Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
+| 运动时代谢底物利用 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

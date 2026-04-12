@@ -74,6 +74,14 @@
 - 避免空腹高强度运动
 - 训练后补充碳水化合物
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| 代谢综合征运动干预综述 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| 1型糖尿病儿童并发训练 (2023) | [Pediatr Diabetes](https://pubmed.ncbi.nlm.nih.gov/) |
+| 运动与肠道微生物研究 | [Gut Microbes](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

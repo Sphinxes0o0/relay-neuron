@@ -63,6 +63,14 @@
 
 训练顺序应基于主要训练目标、大肌肉群优先和动作复杂性原则。合理的顺序最大化训练效果并减少损伤风险。
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| 训练顺序对力量表现的影响 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
+| 疲劳与训练顺序 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| 多关节vs单关节动作研究 | [Eur J Appl Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

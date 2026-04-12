@@ -95,13 +95,14 @@
 
 | 来源 | 链接 |
 |-----|------|
-| Brad Schoenfeld 综述 | mdpi.com/2075-4663 |
-| McMaster University 研究 | McMaster Kinesiology |
-| IUSCA Position Stand | doi.org/10.47206/ijsc |
+| Schoenfeld BJ. "The Mechanisms of Muscle Hypertrophy" | [mdpi.com/2075-4663](https://www.mdpi.com/2075-4663) |
+| McMaster University (Morton et al.) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+| IUSCA Position Stand | [doi.org/10.47206/ijsc](https://doi.org/10.47206/ijsc) |
+| Currier et al. resistance training review | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
 
 ## 七、结论
 
-2024-2026 年研究持续验证和完善了 Schoenfeld 的肌肥大三机制模型。机械张力仍被认为是肌肥大的主要驱动力，代谢应激和肌肉损伤作为辅助机制发挥作用。mTOR 通路的中心地位得到进一步确认。
+2024-2026 年研究持续验证和完善了 Schoenfeld 的肌肥大三机制模型。机械张力仍被认为是肌肥大的主要驱动力，代谢应激和肌肉损伤作为辅助机制发挥作用。mTOR 通路的中心地位得到进一步确认。([Schoenfeld, 2010](https://www.mdpi.com/2075-4663))
 
 ---
 

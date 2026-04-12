@@ -47,11 +47,11 @@
 
 | 来源类型 | 名称 | 链接 |
 |---------|------|------|
-| 期刊 | Journal of Exercise Science & Fitness | sciencedirect.com/journal/journal-of-exercise-science-and-fitness |
-| 期刊 | Scientific Reports | nature.com/srep |
-| 学术会议 | SCSEPF 2025 | sdu.edu.cn |
-| 数据库 | PubMed | pubmed.ncbi.nlm.nih.gov |
-| 预印本 | arXiv | arxiv.org |
+| 期刊 | Journal of Exercise Science & Fitness | [sciencedirect.com](https://www.sciencedirect.com/journal/journal-of-exercise-science-and-fitness) |
+| 期刊 | Scientific Reports | [nature.com/srep](https://www.nature.com/srep) |
+| 学术会议 | SCSEPF 2025 | [sdu.edu.cn](https://www.pe.sdu.edu.cn/) |
+| 数据库 | PubMed | [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov) |
+| 预印本 | arXiv | [arxiv.org](https://arxiv.org) |
 
 ---
 

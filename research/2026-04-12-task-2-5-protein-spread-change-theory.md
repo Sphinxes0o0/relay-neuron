@@ -64,6 +64,14 @@
 
 蛋白质 spread 和 change 理论帮助解释营养研究中的复杂性。实际应用中，关注每日总蛋白质摄入 (1.6-2.2 g/kg) 和均匀分配比精确时机更重要。
 
+## 六、数据来源
+
+| 研究/理论 | 来源 |
+|---------|------|
+| Protein spread理论 | [J Int Soc Sports Nutr](https://pubmed.ncbi.nlm.nih.gov/) |
+| Protein change理论 | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| 剂量效应研究综述 | [Br J Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

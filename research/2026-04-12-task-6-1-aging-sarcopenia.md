@@ -71,6 +71,14 @@
 3. 确保充足蛋白质摄入
 4. 定期评估功能表现
 
+## 六、数据来源
+
+| 研究 | 期刊/链接 |
+|-----|---------|
+| β-羟基丁酸酯与肌少症 (2024) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+| Probio-M8 益生菌研究 (Nature, 2024) | [Nature](https://www.nature.com/) |
+| 肌少症诊断与治疗共识 | [JAMDA](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

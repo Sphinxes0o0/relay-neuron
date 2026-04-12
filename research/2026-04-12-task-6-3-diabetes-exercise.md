@@ -69,6 +69,14 @@
 - 随身携带碳水化合物
 - 告知同伴急救措施
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| 1型糖尿病儿童并发训练 (2023) | [Pediatr Diabetes](https://pubmed.ncbi.nlm.nih.gov/) |
+| 2型糖尿病运动处方共识 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/) |
+| 高蛋白早餐与血糖管理 | [Br J Nutr](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

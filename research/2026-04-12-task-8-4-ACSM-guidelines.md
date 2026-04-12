@@ -66,14 +66,22 @@
 - 多样化运动
 - 力量训练 (需指导)
 
-## 五、实践资源
+## 五、数据来源
 
-### 5.1 ACSM 认证
+| 指南/声明 | 来源 |
+|---------|------|
+| ACSM Position Stand: Physical Activity and Body Composition (2024) | [Med Sci Sports Exerc](https://journals.lww.com/acsm-msse/) |
+| ACSM Guidelines for Exercise Testing and Prescription (11th ed.) | [Lippincott Williams & Wilkins](https://shop.lww.com/) |
+| WHO Physical Activity Guidelines (2020) | [WHO](https://www.who.int/) |
+
+## 六、实践资源
+
+### 6.1 ACSM 认证
 - CSCS (体能训练专家)
 - ACSM-CPT (私人教练)
 - ACSM-EP (运动生理学家)
 
-### 5.2 出版物
+### 6.2 出版物
 - Medicine & Science in Sports & Exercise
 - Current Sports Medicine Reports
 - ACSM's Health & Fitness Journal

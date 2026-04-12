@@ -65,7 +65,16 @@
 | 肱三头肌长头 | 过顶臂屈伸 |
 | 股四头肌上部 | 深蹲 (全蹲) |
 
-## 五、结论
+## 五、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| Wakahara et al. (2013) - 区域肌肥大开创性研究 | [Med Sci Sports Exerc](https://pubmed.ncbi.nlm.nih.gov/) |
+| Ema et al. (2013) - 股四头肌不均匀肥大 | [J Appl Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
+| Earp et al. (2015) - 训练方式与肥大分布 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
+| Handsfield et al. (2017) - 短跑运动员肌肉比例 | [J Appl Physiol](https://pubmed.ncbi.nlm.nih.gov/) |
+
+## 六、结论
 
 区域肌肥大现象已被充分证实。训练方案和受试者特征是影响非均匀性的主要因素。通过选择特定训练动作，可以优化目标区域的肌肉肥大。
 

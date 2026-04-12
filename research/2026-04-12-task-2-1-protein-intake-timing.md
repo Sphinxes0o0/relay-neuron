@@ -85,6 +85,15 @@
 总计:   1.6-2.2 g/kg/天
 ```
 
+## 七、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| Morton et al. - 蛋白质剂量与MPS剂量效应 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+| Nature Metabolism - 进食调节糖原代谢 (2026) | [Nature Metabolism](https://www.nature.com/natmetab/) |
+| Schoenfeld et al. - 蛋白质时机综述 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+| Moore et al. - 乳清蛋白合成代谢研究 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12

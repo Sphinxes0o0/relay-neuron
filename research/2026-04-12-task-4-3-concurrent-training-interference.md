@@ -73,6 +73,14 @@
 
 协调效应可能不如传统观点认为的那么显著。通过合理的训练安排（顺序、强度、频率），可以最大化两种训练的效果。
 
+## 六、数据来源
+
+| 研究 | 来源 |
+|-----|------|
+| Sports Medicine - 并发训练协调效应综述 (2016) | [Sports Med](https://pubmed.ncbi.nlm.nih.gov/) |
+| 并发训练与力量适应 | [J Strength Cond Res](https://pubmed.ncbi.nlm.nih.gov/) |
+| 乳腺癌幸存者并发训练研究 (2024) | [Support Care Cancer](https://pubmed.ncbi.nlm.nih.gov/) |
+
 ---
 
 **存档时间**: 2026-04-12
