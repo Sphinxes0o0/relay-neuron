@@ -306,7 +306,7 @@ ATP 合成↑
 | 1 | Food & Function - CoQ10 治疗心力衰竭系统评价 | 2023 | [10.1039/d3fo01255g](https://doi.org/10.1039/d3fo01255g) |
 | 2 | J Human Hypertension - CoQ10 治疗高血压荟萃分析 | 2007 | [10.1038/sj.jhypertension.1002138](https://doi.org/10.1038/sj.jhypertension.1002138) |
 | 3 | Journal of Neurology - CoQ10 与帕金森病系统评价 | 2014 | 待查 |
-| 4 | Neurology - CoQ10 与偏头痛 RCT | 2011 | 待查 |
+| 4 | Neurology - CoQ10 与偏头痛 RCT | 2005 | [10.1212/01.wnl.0000151975.03598.ed](https://doi.org/10.1212/01.wnl.0000151975.03598.ed) |
 | 5 | Atherosclerosis - 他汀诱导肌病与 CoQ10 | 2014 | [10.1016/j.atherosclerosis.2014.03.030](https://doi.org/10.1016/j.atherosclerosis.2014.03.030) |
 | 6 | Journal of Diabetes - CoQ10 与糖尿病代谢系统综述 | 2010 | 待查 |
 | 7 | Clinical Pharmacokinetics - 泛醇与泛醌生物利用度比较 | 2018 | 待查 |
@@ -315,7 +315,8 @@ ATP 合成↑
 
 ## 待完成工作
 
-- [ ] 补充剩余 5 篇文献的 DOI（Journal of Neurology 2014, Neurology 2011, Journal of Diabetes 2010, Clinical Pharmacokinetics 2018, Journal of Neurology 2014 PD CoQ10）
+- [x] API搜索补充DOI（2026-04-21）：偏头痛RCT修正为2005年(10.1212/01.wnl.0000151975.03598.ed)
+- [ ] 剩余待查：Journal of Neurology 2014、Journal of Diabetes 2010、Clinical Pharmacokinetics 2018
 - [ ] 完善各系统单篇文献的详细引用格式
 - [ ] 创建姜黄素与 CoQ10 对比分析
 

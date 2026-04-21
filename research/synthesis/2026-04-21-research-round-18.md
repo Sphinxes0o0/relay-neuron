@@ -272,14 +272,14 @@ COX-2抑制 → PGE₂↓
 | # | 文献 | 年份 | DOI |
 |---|------|------|-----|
 | 1 | Nutrition Journal - 姜黄素改善肥胖T2DM患者β细胞功能RCT | 2024 | [10.1186/s12937-024-01022-3](https://doi.org/10.1186/s12937-024-01022-3) |
-| 2 | Nutrients - 姜黄素降低GSK-3β和IAPP | 2020 | 待查 |
+| 2 | Nutrients - 姜黄素降低GSK-3β和IAPP | 2020 | [10.3390/nu12041032](https://doi.org/10.3390/nu12041032) |
 | 3 | Scientific Reports - 姜黄素对MAFLD荟萃分析 | 2023 | [10.1038/s41598-023-33023-3](https://doi.org/10.1038/s41598-023-33023-3) |
-| 4 | Archives Medical Science - 姜黄素在肝脏疾病中的作用 | 2018 | 待查 |
+| 4 | Archives Medical Science - 姜黄素在肝脏疾病中的作用 | 2018 | [10.5114/aoms.2018.73596](https://doi.org/10.5114/aoms.2018.73596) |
 | 5 | Nutrients - 姜黄素生物活性与健康功效分子机制综述 | 2018 | [10.3390/nu10101553](https://doi.org/10.3390/nu10101553) |
 | 6 | Springer - 透明质酸纳米粒增强姜黄素抗RA活性 | 2024 | [10.1007/s10876-024-02667-0](https://doi.org/10.1007/s10876-024-02667-0) |
-| 7 | Food Research - 姜黄素神经保护作用 | 2020 | 待查 |
+| 7 | Food Research - 姜黄素神经保护作用 | 2020 | [10.26656/fr.2017.4(6).363](https://doi.org/10.26656/fr.2017.4(6).363) |
 | 8 | Neurotoxicity Research - 纳米乳剂增强姜黄素对PD神经保护 | 2021 | [10.1007/s12640-021-00362-w](https://doi.org/10.1007/s12640-021-00362-w) |
-| 9 | Pharmaceutical Biology - 姜黄素缓解糖尿病肾病 | 2019 | 待查 |
+| 9 | Pharmaceutical Biology - 姜黄素缓解糖尿病肾病 | 2019 | [10.1080/13880209.2019.1688843](https://doi.org/10.1080/13880209.2019.1688843) |
 | 10 | Scientific Reports - 姜黄素脂质体缓解MSCs衰老 | 2024 | [10.1038/s41598-024-82614-1](https://doi.org/10.1038/s41598-024-82614-1) |
 | 11 | European J Pharmacokinetics - 姜黄素纳米制剂增强口服生物利用度 | 2019 | 待查 |
 | 12 | BMC - 姜黄素与他莫昔芬协同纳米粒治疗乳腺癌 | 2024 | 待查 |
@@ -322,9 +322,10 @@ COX-2抑制 → PGE₂↓
 - [x] 已补充DOI：Nutrients 2018 姜黄素生物活性分子机制 (10.3390/nu10101553)
 - [x] 已补充DOI：Frontiers Endocrinology 2022 MASLD心脏舒张功能 (10.3389/fendo.2022.935390)
 - [x] 已补充DOI：Nature Reviews Disease Primers 2025 慢性肾脏病 (10.1038/s41572-024-00589-9)
-- [ ] 剩余待查DOI（部分为2007-2019年较老文献，通过网络搜索难以确认DOI）
-  - 姜黄素：GSK-3β/IAPP 2020、Archives Medical Science 2018、Food Research 2020、Pharmaceutical Biology 2019、European J Pharmacokinetics 2019、BMC 2024
-  - 肥胖：Obesity Reviews 2024、IJ Obesity CHARLS 2024、柳叶刀子刊 2023、Scientific Reports 2025 SGLT2i
+- [x] API搜索补充DOI（2026-04-21 通过OpenAlex/Semantic Scholar/CrossRef）
+  - 姜黄素：GSK-3β/IAPP 2020(10.3390/nu12041032)、Archives Medical Science 2018(10.5114/aoms.2018.73596)、Food Research 2020(10.26656/fr.2017.4(6).363)、Pharmaceutical Biology 2019(10.1080/13880209.2019.1688843)
+  - CoQ10：偏头痛RCT修正为2005年(10.1212/01.wnl.0000151975.03598.ed)
+- [ ] 剩余待查：European J Pharmacokinetics 2019、BMC 2024、Obesity Reviews 2024、IJ Obesity CHARLS 2024、柳叶刀子刊 2023、Scientific Reports 2025 SGLT2i、Journal of Neurology 2014、Journal of Diabetes 2010、Clinical Pharmacokinetics 2018
 - [ ] 完善各系统单篇文献的引用格式
 
 ---
