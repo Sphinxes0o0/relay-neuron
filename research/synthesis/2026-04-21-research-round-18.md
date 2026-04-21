@@ -322,7 +322,9 @@ COX-2抑制 → PGE₂↓
 - [x] 已补充DOI：Nutrients 2018 姜黄素生物活性分子机制 (10.3390/nu10101553)
 - [x] 已补充DOI：Frontiers Endocrinology 2022 MASLD心脏舒张功能 (10.3389/fendo.2022.935390)
 - [x] 已补充DOI：Nature Reviews Disease Primers 2025 慢性肾脏病 (10.1038/s41572-024-00589-9)
-- [ ] 继续补充剩余"待查"文献的DOI（姜黄素相关7篇、肥胖相关4篇）
+- [ ] 剩余待查DOI（部分为2007-2019年较老文献，通过网络搜索难以确认DOI）
+  - 姜黄素：GSK-3β/IAPP 2020、Archives Medical Science 2018、Food Research 2020、Pharmaceutical Biology 2019、European J Pharmacokinetics 2019、BMC 2024
+  - 肥胖：Obesity Reviews 2024、IJ Obesity CHARLS 2024、柳叶刀子刊 2023、Scientific Reports 2025 SGLT2i
 - [ ] 完善各系统单篇文献的引用格式
 
 ---
