@@ -275,12 +275,12 @@ COX-2抑制 → PGE₂↓
 | 2 | Nutrients - 姜黄素降低GSK-3β和IAPP | 2020 | 待查 |
 | 3 | Scientific Reports - 姜黄素对MAFLD荟萃分析 | 2023 | [10.1038/s41598-023-33023-3](https://doi.org/10.1038/s41598-023-33023-3) |
 | 4 | Archives Medical Science - 姜黄素在肝脏疾病中的作用 | 2018 | 待查 |
-| 5 | Nutrients - 姜黄素生物活性与健康功效分子机制综述 | 2018 | 待查 |
+| 5 | Nutrients - 姜黄素生物活性与健康功效分子机制综述 | 2018 | [10.3390/nu10101553](https://doi.org/10.3390/nu10101553) |
 | 6 | Springer - 透明质酸纳米粒增强姜黄素抗RA活性 | 2024 | [10.1007/s10876-024-02667-0](https://doi.org/10.1007/s10876-024-02667-0) |
 | 7 | Food Research - 姜黄素神经保护作用 | 2020 | 待查 |
-| 8 | Neurotoxicity Research - 纳米乳剂增强姜黄素对PD神经保护 | 2021 | 待查 |
+| 8 | Neurotoxicity Research - 纳米乳剂增强姜黄素对PD神经保护 | 2021 | [10.1007/s12640-021-00362-w](https://doi.org/10.1007/s12640-021-00362-w) |
 | 9 | Pharmaceutical Biology - 姜黄素缓解糖尿病肾病 | 2019 | 待查 |
-| 10 | Scientific Reports - 姜黄素脂质体缓解MSCs衰老 | 2024 | 待查 |
+| 10 | Scientific Reports - 姜黄素脂质体缓解MSCs衰老 | 2024 | [10.1038/s41598-024-82614-1](https://doi.org/10.1038/s41598-024-82614-1) |
 | 11 | European J Pharmacokinetics - 姜黄素纳米制剂增强口服生物利用度 | 2019 | 待查 |
 | 12 | BMC - 姜黄素与他莫昔芬协同纳米粒治疗乳腺癌 | 2024 | 待查 |
 
@@ -296,7 +296,7 @@ COX-2抑制 → PGE₂↓
 | 6 | Obesity Reviews - 肥胖与房颤 | 2024 | 待查 |
 | 7 | Current Cardiology Reports - 全球MASLD流行现状 | 2024 | [10.1007/s11886-024-02025-6](https://doi.org/10.1007/s11886-024-02025-6) |
 | 8 | J Translational Medicine - E3泛素连接酶与MASLD | 2025 | [10.1186/s12967-025-06255-2](https://doi.org/10.1186/s12967-025-06255-2) |
-| 9 | Frontiers Endocrinology - MASLD与心脏舒张功能 | 2022 | 待查 |
+| 9 | Frontiers Endocrinology - MASLD与心脏舒张功能 | 2022 | [10.3389/fendo.2022.935390](https://doi.org/10.3389/fendo.2022.935390) |
 | 10 | IJ Obesity CHARLS - 肥胖与痴呆风险 | 2024 | 待查 |
 | 11 | 柳叶刀子刊 - 腹部肥胖与认知下降 | 2023 | 待查 |
 | 12 | Nature Mental Health - 长期肥胖对大脑形态功能连接和认知的影响 | 2025 | [10.1038/s44220-023-00158-1](https://doi.org/10.1038/s44220-023-00158-1) |
@@ -306,7 +306,7 @@ COX-2抑制 → PGE₂↓
 | 16 | Scientific Reports - VAI与T2DM | 2024 | [10.1038/s41598-024-67430-x](https://doi.org/10.1038/s41598-024-67430-x) |
 | 17 | BMC Nephrology - VAI/LAP与CKD | 2022 | [10.1186/s12882-022-03026-9](https://doi.org/10.1186/s12882-022-03026-9) |
 | 18 | Nature Reviews Endocrinology - 肥胖与肾脏机制与治疗进展 | 2024 | [10.1038/s41574-024-00951-7](https://doi.org/10.1038/s41574-024-00951-7) |
-| 19 | Nature Reviews Disease Primers - 慢性肾脏病 | 2025 | 待查 |
+| 19 | Nature Reviews Disease Primers - 慢性肾脏病 | 2025 | [10.1038/s41572-024-00589-9](https://doi.org/10.1038/s41572-024-00589-9) |
 | 20 | Scientific Reports - SGLT2i在CKD真实世界 | 2025 | 待查 |
 | 21 | DMSO - 肥胖模式与糖尿病肾病 | 2023 | [10.2147/dmso.s436046](https://doi.org/10.2147/dmso.s436046) |
 | 22 | Obesity Reviews - 肥胖与房颤（综合） | 2024 | 待查 |
@@ -318,7 +318,11 @@ COX-2抑制 → PGE₂↓
 - [x] 已补充DOI：IJ肥胖腰围(10.1038/s41366-025-01735-3)、体脂参数(10.1038/s41598-021-00175-z)、VAI与T2DM(10.1038/s41598-024-67430-x)、E3泛素连接酶与MASLD(10.1186/s12967-025-06255-2)、糖尿病肾病(10.2147/dmso.s436046)
 - [x] 已补充DOI：RBP4 Endocrine 2024(10.1007/s12020-024-03777-5)、MASLD全球流行 Current Cardiology Reports 2024(10.1007/s11886-024-02025-6)、CoQ10高血压 J Human Hypertension 2007(10.1038/1002138)
 - [x] 已补充DOI：Nutrition Journal 2024 姜黄素T2DM RCT (10.1186/s12937-024-01022-3)
-- [ ] 继续补充剩余"待查"文献的DOI（姜黄素相关9篇、肥胖相关5篇）
+- [x] 已补充DOI：Neurotoxicity Research 2021 纳米乳剂姜黄素PD (10.1007/s12640-021-00362-w)
+- [x] 已补充DOI：Nutrients 2018 姜黄素生物活性分子机制 (10.3390/nu10101553)
+- [x] 已补充DOI：Frontiers Endocrinology 2022 MASLD心脏舒张功能 (10.3389/fendo.2022.935390)
+- [x] 已补充DOI：Nature Reviews Disease Primers 2025 慢性肾脏病 (10.1038/s41572-024-00589-9)
+- [ ] 继续补充剩余"待查"文献的DOI（姜黄素相关7篇、肥胖相关4篇）
 - [ ] 完善各系统单篇文献的引用格式
 
 ---
