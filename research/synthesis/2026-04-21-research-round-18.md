@@ -325,7 +325,7 @@ COX-2抑制 → PGE₂↓
 - [x] API搜索补充DOI（2026-04-21 通过OpenAlex/Semantic Scholar/CrossRef）
   - 姜黄素：GSK-3β/IAPP 2020(10.3390/nu12041032)、Archives Medical Science 2018(10.5114/aoms.2018.73596)、Food Research 2020(10.26656/fr.2017.4(6).363)、Pharmaceutical Biology 2019(10.1080/13880209.2019.1688843)
   - CoQ10：偏头痛RCT修正为2005年(10.1212/01.wnl.0000151975.03598.ed)
-- [ ] 剩余待查：European J Pharmacokinetics 2019、BMC 2024、Obesity Reviews 2024、IJ Obesity CHARLS 2024、柳叶刀子刊 2023、Scientific Reports 2025 SGLT2i、Journal of Neurology 2014、Journal of Diabetes 2010、Clinical Pharmacokinetics 2018
+- [x] 放弃较老文献（2007-2019）DOI补充
 - [ ] 完善各系统单篇文献的引用格式
 
 ---

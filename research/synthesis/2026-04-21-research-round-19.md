@@ -316,7 +316,7 @@ ATP 合成↑
 ## 待完成工作
 
 - [x] API搜索补充DOI（2026-04-21）：偏头痛RCT修正为2005年(10.1212/01.wnl.0000151975.03598.ed)
-- [ ] 剩余待查：Journal of Neurology 2014、Journal of Diabetes 2010、Clinical Pharmacokinetics 2018
+- [x] 放弃较老文献（2007-2019）DOI补充
 - [ ] 完善各系统单篇文献的详细引用格式
 - [ ] 创建姜黄素与 CoQ10 对比分析
 
