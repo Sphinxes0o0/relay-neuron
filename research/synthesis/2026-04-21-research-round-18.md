@@ -43,7 +43,7 @@
 
 ### 糖尿病与代谢系统
 
-**关键RCT证据**（Nutrition Journal 2024, n=272, 12个月）：
+**关键RCT证据**（Nutrition Journal 2024, [doi:10.1186/s12937-024-01022-3](https://doi.org/10.1186/s12937-024-01022-3), n=272, 12个月）：
 
 - 姜黄素 1500mg/天显著改善肥胖T2DM患者β细胞功能
 - HOMA-β↑、空腹血糖↓、HbA1c↓、HOMA-IR↓
@@ -271,7 +271,7 @@ COX-2抑制 → PGE₂↓
 
 | # | 文献 | 年份 | DOI |
 |---|------|------|-----|
-| 1 | Nutrition Journal - 姜黄素改善肥胖T2DM患者β细胞功能RCT | 2024 | 待查 |
+| 1 | Nutrition Journal - 姜黄素改善肥胖T2DM患者β细胞功能RCT | 2024 | [10.1186/s12937-024-01022-3](https://doi.org/10.1186/s12937-024-01022-3) |
 | 2 | Nutrients - 姜黄素降低GSK-3β和IAPP | 2020 | 待查 |
 | 3 | Scientific Reports - 姜黄素对MAFLD荟萃分析 | 2023 | [10.1038/s41598-023-33023-3](https://doi.org/10.1038/s41598-023-33023-3) |
 | 4 | Archives Medical Science - 姜黄素在肝脏疾病中的作用 | 2018 | 待查 |
