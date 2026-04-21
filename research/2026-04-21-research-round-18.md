@@ -294,7 +294,7 @@ COX-2抑制 → PGE₂↓
 | 4 | IJ Obesity - 腰围与术后房颤 | 2025 | [10.1038/s41366-025-01735-3](https://doi.org/10.1038/s41366-025-01735-3) |
 | 5 | Scientific Reports - 体脂参数与动脉僵硬 | 2021 | [10.1038/s41598-021-00175-z](https://doi.org/10.1038/s41598-021-00175-z) |
 | 6 | Obesity Reviews - 肥胖与房颤 | 2024 | 待查 |
-| 7 | Current Cardiology Reports - 全球MASLD流行现状 | 2024 | 待查 |
+| 7 | Current Cardiology Reports - 全球MASLD流行现状 | 2024 | [10.1007/s11886-024-02025-6](https://doi.org/10.1007/s11886-024-02025-6) |
 | 8 | J Translational Medicine - E3泛素连接酶与MASLD | 2025 | [10.1186/s12967-025-06255-2](https://doi.org/10.1186/s12967-025-06255-2) |
 | 9 | Frontiers Endocrinology - MASLD与心脏舒张功能 | 2022 | 待查 |
 | 10 | IJ Obesity CHARLS - 肥胖与痴呆风险 | 2024 | 待查 |
@@ -302,7 +302,7 @@ COX-2抑制 → PGE₂↓
 | 12 | Nature Mental Health - 长期肥胖对大脑形态功能连接和认知的影响 | 2025 | [10.1038/s44220-023-00158-1](https://doi.org/10.1038/s44220-023-00158-1) |
 | 13 | Nature Medicine - 肥胖药物治疗系统综述 | 2025 | [10.1038/s41591-025-03978-z](https://doi.org/10.1038/s41591-025-03978-z) |
 | 14 | 免疫学杂志 - IL-7、Treg与T2DM | 2025 | 待查 |
-| 15 | Endocrine - RBP4与T2DM | 2024 | 待查 |
+| 15 | Endocrine - RBP4与T2DM | 2024 | [10.1007/s12020-024-03777-5](https://doi.org/10.1007/s12020-024-03777-5) |
 | 16 | Scientific Reports - VAI与T2DM | 2024 | [10.1038/s41598-024-67430-x](https://doi.org/10.1038/s41598-024-67430-x) |
 | 17 | BMC Nephrology - VAI/LAP与CKD | 2022 | [10.1186/s12882-022-03026-9](https://doi.org/10.1186/s12882-022-03026-9) |
 | 18 | Nature Reviews Endocrinology - 肥胖与肾脏机制与治疗进展 | 2024 | [10.1038/s41574-024-00951-7](https://doi.org/10.1038/s41574-024-00951-7) |
@@ -316,6 +316,7 @@ COX-2抑制 → PGE₂↓
 ## 待补充工作
 
 - [x] 已补充DOI：IJ肥胖腰围(10.1038/s41366-025-01735-3)、体脂参数(10.1038/s41598-021-00175-z)、VAI与T2DM(10.1038/s41598-024-67430-x)、E3泛素连接酶与MASLD(10.1186/s12967-025-06255-2)、糖尿病肾病(10.2147/dmso.s436046)
+- [x] 已补充DOI：RBP4 Endocrine 2024(10.1007/s12020-024-03777-5)、MASLD全球流行 Current Cardiology Reports 2024(10.1007/s11886-024-02025-6)、CoQ10高血压 J Human Hypertension 2007(10.1038/1002138)
 - [ ] 继续补充剩余"待查"文献的DOI
 - [ ] 完善各系统单篇文献的引用格式
 - [ ] 为枸杞文献和跑步Q10文献建立归档

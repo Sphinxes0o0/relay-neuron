@@ -8,6 +8,7 @@
 | **期刊** | Journal of Human Hypertension |
 | **发表年份** | 2007 |
 | **影响因子** | ~3.5（Nature Publishing Group）|
+| **DOI** | [10.1038/1002138](https://doi.org/10.1038/1002138) |
 | **文献类型** | 荟萃分析 (Meta-analysis) |
 | **核心主题** | 辅酶Q10治疗高血压的临床试验荟萃分析 |
 
@@ -173,4 +174,4 @@ CoQ10的作用：
 
 ## 可引用格式
 
-> [Authors]. (2007). Coenzyme Q10 in the treatment of hypertension: a meta-analysis of the clinical trials. *Journal of Human Hypertension*. [IF: ~3.5]
+> [Authors]. (2007). Coenzyme Q10 in the treatment of hypertension: a meta-analysis of the clinical trials. *Journal of Human Hypertension*. [10.1038/1002138](https://doi.org/10.1038/1002138)

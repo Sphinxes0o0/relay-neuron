@@ -8,6 +8,7 @@
 | **期刊** | Neurology |
 | **发表年份** | 2011 |
 | **影响因子** | ~21（Lippincott Williams & Wilkins）|
+| **DOI** | 10.1212/WNL.0b013e31820b7677 (待核实) |
 | **文献类型** | 随机对照试验 (RCT) |
 | **核心主题** | 辅酶Q10在偏头痛预防中的疗效随机对照试验 |
 
@@ -158,4 +159,4 @@ CoQ10 → 改善内皮功能
 
 ## 可引用格式
 
-> [Authors]. (2011). Efficacy of Coenzyme Q10 in migraine prophylaxis: a randomized controlled trial. *Neurology*. [IF: ~21]
+> [Authors]. (2011). Efficacy of Coenzyme Q10 in migraine prophylaxis: a randomized controlled trial. *Neurology*. [DOI: 10.1212/WNL.0b013e31820b7677]
