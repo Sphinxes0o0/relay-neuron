@@ -7,7 +7,7 @@
 
 ## 新领域探索 (Emerging Research)
 
-- [ ] **1.1 环境与运动-高海拔/低氧训练** (benefits + risks)
+- [x] **1.1 环境与运动-高海拔/低氧训练** (benefits + risks)
 - [ ] **1.2 女性运动生理-月经周期激素波动** (benefits + risks)
 - [ ] **1.3 女性运动生理-更年期骨健康** (benefits + risks)
 - [ ] **1.4 运动损伤心理-损伤恐惧重返赛场** (benefits + risks)
