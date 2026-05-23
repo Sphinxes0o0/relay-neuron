@@ -8,30 +8,30 @@
 
 ### 2. 背部 (Back)
 - [ ] 背阔肌 (Latissimus Dorsi) ✅ 已完成
-- [ ] 斜方肌 (Trapezius)
-  - [ ] 上斜方肌 (Upper Trapezius)
-  - [ ] 中斜方肌 (Middle Trapezius)
-  - [ ] 下斜方肌 (Lower Trapezius)
+- [x] 斜方肌 (Trapezius) ✅ 已完成
+  - [x] 上斜方肌 (Upper Trapezius) ✅
+  - [x] 中斜方肌 (Middle Trapezius) ✅
+  - [x] 下斜方肌 (Lower Trapezius) ✅
 - [ ] 菱形肌 (Rhomboid)
   - [ ] 大菱形肌 (Rhomboid Major)
   - [ ] 小菱形肌 (Rhomboid Minor)
 - [ ] 大圆肌 (Teres Major)
-- [ ] 小圆肌 (Teres Minor)
-- [ ] 冈下肌 (Infraspinatus)
-- [ ] 冈上肌 (Supraspinatus)
+- [x] 小圆肌 (Teres Minor) ✅
+- [x] 冈下肌 (Infraspinatus) ✅
+- [x] 冈上肌 (Supraspinatus) ✅
 
 ### 3. 肩部 (Shoulder)
 - [ ] 三角肌 (Deltoid) ✅ 已完成
   - [ ] 前束 (Anterior Deltoid)
   - [ ] 中束 (Middle Deltoid)
   - [ ] 后束 (Posterior Deltoid)
-- [ ] 肩袖肌群 (Rotator Cuff)
-  - [ ] 冈上肌 (Supraspinatus)
-  - [ ] 冈下肌 (Infraspinatus)
-  - [ ] 小圆肌 (Teres Minor)
-  - [ ] 肩胛下肌 (Subscapularis)
+- [x] 肩袖肌群 (Rotator Cuff) ✅ 已完成
+  - [x] 冈上肌 (Supraspinatus) ✅
+  - [x] 冈下肌 (Infraspinatus) ✅
+  - [x] 小圆肌 (Teres Minor) ✅
+  - [x] 肩胛下肌 (Subscapularis) ✅
 - [ ] 肩胛提肌 (Levator Scapulae)
-- [ ] 前锯肌 (Serratus Anterior)
+- [x] 前锯肌 (Serratus Anterior) ✅
 
 ### 4. 手臂 (Arm)
 - [ ] 肱二头肌 (Biceps Brachii) ✅ 已完成
@@ -73,15 +73,15 @@
 
 ### 6. 髋部 (Hip)
 - [ ] 臀大肌 (Gluteus Maximus) ✅ 已完成
-- [ ] 臀中肌 (Gluteus Medius)
+- [x] 臀中肌 (Gluteus Medius) ✅ 已完成
   - [ ] 前部纤维 (Anterior Fibers)
   - [ ] 后部纤维 (Posterior Fibers)
-- [ ] 臀小肌 (Gluteus Minimus)
-- [ ] 髂腰肌 (Iliopsoas)
+- [x] 臀小肌 (Gluteus Minimus) ✅ 已完成
+- [x] 髂腰肌 (Iliopsoas) ✅ 已完成
   - [ ] 髂肌 (Iliacus)
   - [ ] 腰大肌 (Psoas Major)
   - [ ] 腰小肌 (Psoas Minor)
-- [ ] 阔筋膜张肌 (Tensor Fasciae Latae, TFL)
+- [x] 阔筋膜张肌 (Tensor Fasciae Latae, TFL) ✅ 已完成
 - [ ] 梨状肌 (Piriformis)
 - [ ] 上孖肌 (Superior Gemellus)
 - [ ] 下孖肌 (Inferior Gemellus)
@@ -104,11 +104,12 @@
   - [ ] 半膜肌 (Semimembranosus)
 
 ### 9. 大腿内侧 (Medial Thigh / Adductors)
-- [ ] 大收肌 (Adductor Magnus)
-- [ ] 长收肌 (Adductor Longus)
-- [ ] 短收肌 (Adductor Brevis)
-- [ ] 股薄肌 (Gracilis)
-- [ ] 耻骨肌 (Pectineus)
+- [x] 大收肌 (Adductor Magnus) ✅ 已完成
+- [x] 内收肌群 (Adductor Group) ✅ 已完成
+  - [x] 长收肌 (Adductor Longus) ✅
+  - [x] 短收肌 (Adductor Brevis) ✅
+  - [ ] 股薄肌 (Gracilis)
+  - [ ] 耻骨肌 (Pectineus)
 
 ### 10. 小腿 (Lower Leg)
 - [ ] 小腿整体 ✅ 已完成
@@ -165,25 +166,25 @@
 
 | 分类 | 总数 | 已完成 | 待研究 |
 |------|------|--------|--------|
-| 上肢肌肉 | 40+ | 4 | 36+ |
-| 下肢肌肉 | 35+ | 3 | 32+ |
+| 上肢肌肉 | 40+ | 16 | 24+ |
+| 下肢肌肉 | 35+ | 12 | 23+ |
 | 核心肌肉 | 15+ | 3 | 12+ |
-| **总计** | **90+** | **10** | **80+** |
+| **总计** | **90+** | **31** | **59+** |
 
 ---
 
 ## 优先级建议
 
 ### 高优先级 (运动训练核心)
-1. 肩袖肌群（肩部稳定基础）
-2. 臀中肌/小肌（髋稳定、膝伤预防）
-3. 髂腰肌（髋屈核心）
-4. 斜方肌（上下分解）
-5. 多裂肌（脊柱稳定）
+1. ~~肩袖肌群~~ ✅ 已完成
+2. ~~臀中肌/小肌~~ ✅ 已完成
+3. ~~髂腰肌~~ ✅ 已完成
+4. ~~斜方肌~~ ✅ 已完成
+5. 多裂肌（脊柱稳定） - 已完成
 
 ### 中优先级
-6. 内收肌群
-7. 前锯肌
+6. ~~内收肌群~~ ✅ 已完成
+7. ~~前锯肌~~ ✅ 已完成
 8. 旋前/旋后肌群
 9. 小腿深层肌群
 10. 腹横肌
@@ -193,4 +194,3 @@
 12. 菱形肌
 13. 肱肌
 14. 其他深层小肌群
-
