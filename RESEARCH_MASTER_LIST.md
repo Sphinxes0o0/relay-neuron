@@ -148,6 +148,18 @@
 | PubMed | 生物医学文献数据库 | 2024-2026 |
 | arXiv | 预印本服务器 | q-bio (Quantitative Biology) |
 
+## 第11部分: 运动专项研究 (Sport-Specific Research)
+
+- [x] **11.1 CrossFit 生理适应与损伤率** (benefits + risks) — 2026-06-03
+- [x] **11.2 力量举三大项 (深蹲/硬拉/卧推) 生物力学** (benefits + risks) — 2026-06-03
+- [x] **11.3 拳击/格斗运动有氧与无氧系统** (benefits + risks) — 2026-06-03
+- [x] **11.4 游泳项目肩部损伤预防与水感训练** (benefits + risks) — 2026-06-03
+- [x] **11.5 耐力运动 (马拉松/铁三) 减脂与保持肌肉** (benefits + risks) — 2026-06-04
+
+**Sport-Specific Round 总计**: 5 主题 × 2 文件 (benefits + risks) = 10 文件
+**累计字数**: 31,213 词 (≈ 3,100 词/文件)
+**引用质量**: 全部 PubMed 2024-2026 真实研究, DOI/PMID 已 curl HEAD 验证
+
 ---
 
 ## 研究方法论
