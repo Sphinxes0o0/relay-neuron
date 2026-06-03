@@ -31,10 +31,10 @@
 
 ## 运动专项研究 (Sport-Specific Research)
 
-- [ ] **4.1 CrossFit生理适应与损伤率** (benefits + risks) — 🔄 进行中
-- [ ] **4.2 力量举三大项（深蹲/硬拉/卧推）生物力学** (benefits + risks) — 🔄 进行中
-- [ ] **4.3 拳击/格斗运动有氧与无氧系统** (benefits + risks) — 🔄 进行中
-- [ ] **4.4 游泳项目肩部损伤预防与水感训练** (benefits + risks) — 🔄 进行中
+- [x] **4.1 CrossFit生理适应与损伤率** (benefits + risks) — 2026-06-03
+- [x] **4.2 力量举三大项（深蹲/硬拉/卧推）生物力学** (benefits + risks) — 2026-06-03
+- [x] **4.3 拳击/格斗运动有氧与无氧系统** (benefits + risks) — 2026-06-03
+- [x] **4.4 游泳项目肩部损伤预防与水感训练** (benefits + risks) — 2026-06-03
 - [ ] **4.5 耐力运动（马拉松/铁三）减脂与保持肌肉** (benefits + risks) — 🔄 进行中
 
 ---
